@@ -52,8 +52,11 @@ This public repository contains only sanitized and independently shareable mater
 
 ## Professional Profiles
 
+- [GitHub](https://github.com/pallabhaldar)
 - [LinkedIn](https://www.linkedin.com/in/pallab-haldar-01/)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=B7imzJIAAAAJ)
+- [ORCID](https://orcid.org/0009-0000-1155-1391)
+- [ResearchGate](https://www.researchgate.net/profile/Pallab-Haldar-5)
+- [Web of Science Researcher Profile](https://www.webofscience.com/wos/author/record/QSO-5819-2026)
 - [SAP Community](https://community.sap.com/t5/user/viewprofilepage/user-id/594699)
-- Google Scholar: Add verified profile URL
-- ORCID: Add verified profile URL
-
+- [Credly](https://www.credly.com/users/pallab-haldar/badges/credly)
