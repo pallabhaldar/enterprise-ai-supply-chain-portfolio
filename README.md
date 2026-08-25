@@ -18,7 +18,7 @@ This repository presents sanitized technical documentation of selected architect
 
 A machine-learning and enterprise-data framework for identifying potential material substitutes and supporting supply continuity.
 
-[View the Material Substitution repository](https://github.com/pallabhaldar/Material-Substitution)
+[View the Material Substitution repository](https://github.com/pallabhaldar/Matrial-Substitution)
 
 ### Inventory Target Prediction
 
