@@ -2,7 +2,7 @@
 
 This page should link only to verified publisher pages, DOI records, IEEE Xplore records, conference programs, or stable institutional records.
 
-## Selected Journal Publications
+## Journal Publications Documented in the Portfolio
 
 1. **[AI-Infused Enterprise Data Architecture for Predictive Supply Chain Management](https://jisem-journal.com/index.php/journal/article/view/13501)** — Journal of Information Systems Engineering and Management, 10(61s), 2025. DOI: [10.52783/jisem.v10i61s.13501](https://doi.org/10.52783/jisem.v10i61s.13501).
 2. **[Inventory Management Optimization: Predictive Material Purchase Target Identification and Forecasting Using Machine Learning](https://doi.org/10.48047/jocaaa.2025.34.11.45)** — Journal of Computational Analysis and Applications, 34(11), 2025. DOI: [10.48047/jocaaa.2025.34.11.45](https://doi.org/10.48047/jocaaa.2025.34.11.45).
@@ -14,12 +14,16 @@ This page should link only to verified publisher pages, DOI records, IEEE Xplore
 8. **[Cognitive Enterprise Data Architecture for AI-Driven Supply Chain Optimization](https://sarcouncil.com/2026/04/cognitive-enterprise-data-architecture-for-ai-driven-supply-chain-optimization)** — SAR Council Journal of Engineering and Computer Sciences, 2026.
 9. **[Enterprise Scale Predictive Analytics Framework for Data-Driven Decision Support](https://eudoxuspress.com/index.php/pub/article/view/5308)** — Journal of Computational Analysis and Applications, 35(4), 82–89, April 2026.
 
-The portfolio documents also identify **Airline Flight Baggage Handling Using Predictive Analytics**. Its embedded link points to a private author-submission dashboard rather than a public article page, so a public publisher or DOI link must be added before it is listed as publicly verified.
+10. **Airline Flight Baggage Handling Using Predictive Analytics** — Journal of Computer Science and Technology Studies, 2025. The embedded source link points to a private author-submission dashboard, so a public publisher or DOI link must be added before this record is publicly verified.
 
-## Selected Conference Publications
+## Conference Publications Documented in the Portfolio
 
 1. **[AI-Powered Predictive Flight Maintenance](https://ieeexplore.ieee.org/document/11476176)** — IEEE SoutheastCon 2026, IEEE Xplore document 11476176.
-2. **Machine Learning-Driven Student Performance Prediction and Academic Risk Analytics Using Role-Based Decision Support Systems** — IEEE CEECT 2026. Add final publisher URL when available.
+2. **AI-Driven Access and Transparency Networks for Equity in Global Supply Chains** — EUDOXIA NextGen Tech 2025. Portfolio status: approved and presented; journal publication in progress.
+3. **Digital Twins and AI for Real-Time Supply Chain Resilience** — EUDOXIA Tech Nova 2.0, 2026. Portfolio status: approved and presented; journal publication in progress.
+4. **Machine Learning-Driven Student Performance Prediction and Academic Risk Analytics Using Role-Based Decision Support Systems** — IEEE CEECT 2026. Portfolio status: approved and presented; IEEE Xplore publication in progress.
+
+Statuses above reproduce the supplied portfolio. Add conference programs, acceptance notices, proceedings records or final publisher links before relying on them as independently verified evidence.
 
 ## Citation Verification
 

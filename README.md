@@ -42,6 +42,32 @@ Selected data-modeling, integration, performance-optimization, and analytical-co
 - Independent professional verification
 - Reusable technical contributions
 
+## Professional Evidence Portfolio
+
+The attached fellowship portfolio has been organized into public-safe repository records:
+
+- [Research and conference publications](PUBLICATIONS.md)
+- [Peer review and technical-program service](PROFESSIONAL-SERVICE.md)
+- [Conference leadership, judging and invited talks](SPEAKING-AND-LEADERSHIP.md)
+- [SAP Community knowledge contributions](SAP-COMMUNITY-CONTRIBUTIONS.md)
+- [Memberships, certifications and awards](CREDENTIALS-AND-RECOGNITION.md)
+- [Evidence index and verification status](EVIDENCE-INDEX.md)
+
+### Evidence at a Glance
+
+| Category | Documented record |
+|---|---:|
+| Journal publications | 10 |
+| Conference publications | 4 |
+| International conference reviewing | 23 engagements |
+| Technical program committees | 8 memberships |
+| Session leadership | 3 appointments |
+| Judging and journal review | 2 activities |
+| Invited talks | 8 engagements |
+| SAP Community | 100+ submissions; 10 selected contributions listed |
+| Professional credentials | 4 memberships and 20 certifications |
+| Awards | Aureum Technology Awards |
+
 ## Important Evidence Note
 
 Repository publication dates do not replace original project dates. Historical contributions should be verified through contemporaneous records, release documents, employer or client letters, architecture approvals, and independent evidence.
